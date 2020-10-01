@@ -1,0 +1,37 @@
+﻿  소스.cpp
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(9): warning C4068: 알 수 없는 pragma입니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(816): error C2043: break가 잘못되었습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(819): error C2046: 대/소문자가 잘못되었습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(861): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(861): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(861): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(861): note: 이 인수는 버퍼 크기로 사용됩니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1185): error C2043: break가 잘못되었습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1188): error C2059: 구문 오류: 'break'
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1190): error C2059: 구문 오류: 'case'
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1191): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1192): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1192): error C2365: 'system': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1210): note: 'system' 선언을 참조하십시오.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1193): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1193): error C2556: 'int logo(void)': 오버로드된 함수가 'void logo(void)'과(와) 반환 형식만 다릅니다.
+  e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(51): note: 'logo' 선언을 참조하십시오.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1193): error C2371: 'logo': 재정의. 기본 형식이 다릅니다.
+  e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(51): note: 'logo' 선언을 참조하십시오.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1194): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1195): error C2065: 'pmap': 선언되지 않은 식별자입니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1195): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1195): error C2365: 'printMap': 재정의: 이전 정의는 '함수'입니다.
+  e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(52): note: 'printMap' 선언을 참조하십시오.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1196): error C2059: 구문 오류: 'while'
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1196): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1196): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1231): error C2059: 구문 오류: 'goto'
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1232): error C2059: 구문 오류: 'break'
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1233): error C2059: 구문 오류: '}'
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1233): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1236): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1236): error C2059: 구문 오류: '}'
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1238): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1238): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+e:\쭌\tetris\tetris 최종\mysql_connect_test\소스.cpp(1317): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
